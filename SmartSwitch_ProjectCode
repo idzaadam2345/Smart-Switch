@@ -11,11 +11,11 @@
 //New Variable User Define
 #define WIFI_SSID "Adam@AP"
 #define WIFI_PASSWORD "kindaprivate2345"
-#define BOT_TOKEN "1682014843:AAFyuSOZU9c5VrZhMa3UyV8udemK4fXpjmo"
+#define BOT_TOKEN "YOUR TOKEN HERE"
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
-#define AIO_USERNAME    "damtzy"
-#define AIO_KEY         "aio_hynI702rJsUU2p40FtcnipTThaCX"
+#define AIO_USERNAME    "YOUR USERNAME HERE"
+#define AIO_KEY         "YOUR TOKEN HERE"
 #define MAX_Array 30
 #define MAX_USER 5
 //End
